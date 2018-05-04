@@ -263,6 +263,16 @@ img.myslides {
 
 
 }
+.card h5{
+  color: #3B5998;
+}
+.inspect h4{
+  text-align: center;
+}
+.inspect{
+  padding-top: 1.0em;
+
+}
 
 .workers {
 
